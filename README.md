@@ -1,0 +1,1 @@
+This is Thang's first git project!
